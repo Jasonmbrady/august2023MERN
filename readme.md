@@ -3,6 +3,8 @@
 
 Welcome to Javascript/MERN. This document will continually be updated at each lecture/demo session to give an outline of topics covered.
 
+***
+
 ### Tuesday, August 1st, 2023
 - AI and Coding Dojo (and you!)
 - Javascript / ECMAScript / ES6+
