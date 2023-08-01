@@ -3,8 +3,10 @@
 
 Welcome to Javascript/MERN. This document will continually be updated at each lecture/demo session to give an outline of topics covered.
 
-### August 1st, 2023
+### Tuesday, August 1st, 2023
+- AI and Coding Dojo (and you!)
 - Javascript / ECMAScript / ES6+
+    * For more information: https://webreference.com/javascript/basics/versions/
 - Calendar vs. Platform (order of learning)
 - Debugging
     * syntax errors vs runtime errors
