@@ -20,5 +20,16 @@ Welcome to Javascript/MERN. This document will continually be updated at each le
     * let and const
 - Destructuring
 - Rest and Spread operators
+
+***
+
+### Wednesday, August 2nd, 2023
+
 - Arrow Functions
 - Ternary expressions
+- React
+    * Vite vs CRA
+    * Using Vite
+    * JSX
+    * Exploring the Folder Structure
+    * Component-based architecture
