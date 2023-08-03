@@ -5,6 +5,30 @@ Welcome to Javascript/MERN. This document will continually be updated at each le
 
 ***
 
+### Thursday, August 3rd, 2023
+
+- Functional Programming vs. Procedural Programming
+- Anatomy of a component
+- Data flow and Props
+- Practical Destructuring
+- Intro to hooks: State
+- Synchronous vs Asynchronous
+
+***
+
+### Wednesday, August 2nd, 2023
+
+- Arrow Functions
+- Ternary expressions
+- React
+    * Vite vs CRA
+    * Using Vite
+    * JSX
+    * Exploring the Folder Structure
+    * Component-based architecture
+
+***
+
 ### Tuesday, August 1st, 2023
 - AI and Coding Dojo (and you!)
 - Javascript / ECMAScript / ES6+
@@ -23,24 +47,4 @@ Welcome to Javascript/MERN. This document will continually be updated at each le
 
 ***
 
-### Wednesday, August 2nd, 2023
 
-- Arrow Functions
-- Ternary expressions
-- React
-    * Vite vs CRA
-    * Using Vite
-    * JSX
-    * Exploring the Folder Structure
-    * Component-based architecture
-
-***
-
-### Thursday, August 3rd, 2023
-
-- Functional Programming vs. Procedural Programming
-- Anatomy of a component
-- Data flow and Props
-- Practical Destructuring
-- Intro to hooks: State
-- Synchronous vs Asynchronous
