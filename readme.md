@@ -33,3 +33,14 @@ Welcome to Javascript/MERN. This document will continually be updated at each le
     * JSX
     * Exploring the Folder Structure
     * Component-based architecture
+
+***
+
+### Thursday, August 3rd, 2023
+
+- Functional Programming vs. Procedural Programming
+- Anatomy of a component
+- Data flow and Props
+- Practical Destructuring
+- Intro to hooks: State
+- Synchronous vs Asynchronous
