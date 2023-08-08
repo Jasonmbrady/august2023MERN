@@ -5,6 +5,20 @@ Welcome to Javascript/MERN. This document will continually be updated at each le
 
 ***
 
+### Tuesday, August 8th, 2023
+
+- Functional Components review (plus props)
+- Events vs. Synthetic Events
+- Hooks
+    * useState
+    * useEffect
+- Forms and Data Binding
+- Conditional Rendering
+- Lifting State
+- Map and Filter
+
+***
+
 ### Thursday, August 3rd, 2023
 
 - Functional Programming vs. Procedural Programming
