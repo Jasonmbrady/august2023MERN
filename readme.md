@@ -5,17 +5,23 @@ Welcome to Javascript/MERN. This document will continually be updated at each le
 
 ***
 
+### Wednesday, August 9th, 2023
+
+- Forms and Data Binding
+- Lifting State (practical)
+- Conditional Rendering
+
+***
+
 ### Tuesday, August 8th, 2023
 
 - Functional Components review (plus props)
 - Events vs. Synthetic Events
 - Hooks
     * useState
-    * useEffect
-- Forms and Data Binding
-- Conditional Rendering
-- Lifting State
-- Map and Filter
+    * useEffect (conceptual)
+- Lifting State (conceptual)
+
 
 ***
 
