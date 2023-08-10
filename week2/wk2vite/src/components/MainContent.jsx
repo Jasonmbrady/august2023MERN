@@ -4,7 +4,7 @@ const MainContent = () => {
     // const occasion = props.occasion;
     // const expression = props.expression;
     // const {occasion, expression} = props;
-    const [number, setNumber] = useState(0);
+    // const [number, setNumber] = useState(0);
     const [phrase, setPhrase] = useState("");
     const [color, setColor] = useState("");
     
@@ -27,7 +27,6 @@ const MainContent = () => {
                     <label>Color</label>
                     <input type="text" value={color} onChange={e => setColor(e.target.value)}/>
                 </div>
-
         </div>
     );
 }
