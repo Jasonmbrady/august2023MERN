@@ -3,6 +3,17 @@
 
 Welcome to Javascript/MERN. This document will continually be updated at each lecture/demo session to give an outline of topics covered.
 
+
+***
+
+### Thursday, August 10th, 2023
+
+- Advanced Forms
+    * Select
+    * Checkbox
+- Map and Filter
+- Intro to APIs
+
 ***
 
 ### Wednesday, August 9th, 2023
