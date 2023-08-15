@@ -6,6 +6,16 @@ Welcome to Javascript/MERN. This document will continually be updated at each le
 
 ***
 
+### Tuesday, August 15th, 2023
+
+- Callback Functions
+    * Arguments/parameters
+- Promises and Async functions
+    * Syntax
+    * Potential pitfalls
+    * handling async data
+- APIs
+
 ### Thursday, August 10th, 2023
 
 - Advanced Forms
