@@ -6,6 +6,15 @@ Welcome to Javascript/MERN. This document will continually be updated at each le
 
 ***
 
+### Wednesdat, August 16, 2023
+
+- Axios
+    * request types
+    * syntax
+- useEffect
+
+***
+
 ### Tuesday, August 15th, 2023
 
 - Callback Functions
@@ -15,6 +24,8 @@ Welcome to Javascript/MERN. This document will continually be updated at each le
     * Potential pitfalls
     * handling async data
 - APIs
+
+***
 
 ### Thursday, August 10th, 2023
 
