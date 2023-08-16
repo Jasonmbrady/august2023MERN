@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <h1>Card Collection Tracker</h1>
+      <h1>Card Collection Tracker</h1>
       <Form collection={collection} setCollection={setCollection}/>
       <Display collection={collection} setCollection={setCollection}/>
     </>
