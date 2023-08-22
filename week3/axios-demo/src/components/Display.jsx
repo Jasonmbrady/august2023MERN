@@ -16,8 +16,8 @@ const Display = ({pokemonList}) => {
                         return (
                             <tr>
                                 <td>{pokemon.name}</td>
-                                <td>{pokemon.types.map((type)=>{return(<>{type.name }</>)})}</td>
-                                <td><img src={pokemon.sprites.front_default} alt="It's a pokemon!" /></td>
+                                <td>{pokemon.type}</td>
+                                <td><img src={pokemon.sprite} alt="It's a pokemon!" /></td>
                             </tr>
                         )
                     })

@@ -6,34 +6,26 @@ const Form = ({pokemonList, setPokemonList}) => {
         const [type, setType] = useState("");
         const [allTypes] = useState(["Normal", "Fire", "Water", "Grass", "Electric", "Ice", "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dark", "Dragon", "Steel", "Fairy"])
 
-        const formHandler = async e => {
+        const formHandler = e => {
             e.preventDefault();
             // grab data from PokeAPI and filter data by type, then set state
-            const grabbedPokemonList = [];
-
-            axios.get("https://pokeapi.co/api/v2/pokemon")
+            axios.get("http://pokeapi.co/api/v2/pokemon")
                 .then( res => {
                     console.log(res.data);
-                    return res.data.results;
-                    // rawPokemonList.map((pokemon)=>{
-                    //     axios.get(pokemon.url)
-                    //         .then( async res => {
-                    //             console.log(res.data)
-                    //             await grabbedPokemonList.push(res.data)
-                    //             if(type){
-                    //                 const filteredPokemonList = grabbedPokemonList.filter((pokemon)=>{
-                    //                     pokemon.types.includes(type);
-                    //                 })
-                    //                 setPokemonList(filteredPokemonList)
-                    //             }
-                    //             setPokemonList(grabbedPokemonList);
-                                
-                    //         })
-                    // })
+                    // do stuff
+                    setPokemonList(res.data);
                 })
-                
 
-            // setPokemonList(filteredList)
+            // axios.get("http://localhost:8000/api/pokemon")
+            //     .then( res => {
+            //         console.log(res.data);
+            //         if (type !== "") {
+            //             const filteredPokemon = res.data.filter(pokemon => pokemon.type.toLowerCase() === type.toLowerCase());
+            //             setPokemonList(filteredPokemon);
+            //             return;
+            //         } 
+            //         setPokemonList(res.data);
+            //     })
         }
     return(
         <form onSubmit={formHandler}>
