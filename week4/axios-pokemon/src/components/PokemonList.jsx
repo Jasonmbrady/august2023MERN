@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import axios from 'axios';
+import {Link} from "react-router-dom";
 
 const PokemonList = (props) => {
 
@@ -29,7 +30,7 @@ const PokemonList = (props) => {
                     pokemonList.map( pokemon => {
                         return (
                             <li key={pokemon.url}>
-                                {pokemon.name}
+                               <Link to={`/pokemon/${pokemon.name}`}>{pokemon.name}</Link> 
                             </li>
                         )
                     })
